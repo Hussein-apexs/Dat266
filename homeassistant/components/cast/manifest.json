@@ -1,6 +1,6 @@
 {
   "domain": "cast",
-  "name": "Google Cast",
+  "name": "Hussein Cast",
   "after_dependencies": [
     "cloud",
     "http",
